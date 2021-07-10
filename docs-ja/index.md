@@ -1,6 +1,6 @@
 # Welcome to Pyto’s documentation!
 
-(Pyto’s documentation の日本語機械翻訳)[https://pyto.readthedocs.io/en/latest/]
+[Pyto’s documentation の日本語機械翻訳](https://pyto.readthedocs.io/en/latest/)
 
 
 Pytoは、iPadまたはiPhoneでPythonコードをローカルでコーディングおよび実行するためのオープンソースアプリです。  iOSの制限により、アプリはPython C APIを使用して、アプリと同じプロセスでPythonコードを実行します。 サードパーティの純粋なPythonモジュールはPyPiからインストールでき、C拡張機能を備えた一部のライブラリがアプリにバンドルされています。 含まれているライブラリのリストについては、[サードパーティ](#)を参照してください。
